@@ -17,7 +17,7 @@ Hello I am Tasneem Alabed, I graduated from lumminus college.
 At the first day in this course we learn how to use **terminal** and learn what is **git** and **github** and the differance between both also **Markdown** at the end we learn the importance of **VCS** 
 
   
-  ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3ASMirC-happy.svg&psig=AOvVaw3QP2kff9cpbOivs09JZ8-w&ust=1679922491323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi35ozV-f0CFQAAAAAdAAAAABAK)
+  ![](https://media.istockphoto.com/id/469047878/vi/vec-to/happy-smiley-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-c%E1%BA%A3m-x%C3%BAc-phim-ho%E1%BA%A1t-h%C3%ACnh-%C4%91%C6%B0a-ng%C3%B3n-tay-c%C3%A1i-l%C3%AAn.jpg?s=612x612&w=0&k=20&c=y0bjP8qn1_294lOTbR71LP0-c32E2Rp0qeVdC24FWhA=)
 
 
 
